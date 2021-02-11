@@ -7,6 +7,11 @@
 
 ### Language And Tools:
 
+- Python
+- Django Web Framework
+- JavaScript
+- Machine Learning
+
 
 ### Connect With Me:
 
