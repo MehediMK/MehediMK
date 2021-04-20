@@ -15,6 +15,8 @@
 
 ### Connect With Me:
 [Facebook](https://www.facebook.com/MDMMHK/)
+[Email](mehedikhan.cse@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mehedikhan-mk/)
 
 
 
