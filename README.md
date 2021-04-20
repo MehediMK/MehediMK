@@ -14,9 +14,9 @@
 
 
 ### Connect With Me:
-[x] [Facebook](https://www.facebook.com/MDMMHK/)
-[x] [Email](mehedikhan.cse@gmail.com)
-[x] [LinkedIn](https://www.linkedin.com/in/mehedikhan-mk/)
+- [x] [Facebook](https://www.facebook.com/MDMMHK/)
+- [x] [Email](mehedikhan.cse@gmail.com)
+- [x] [LinkedIn](https://www.linkedin.com/in/mehedikhan-mk/)
 
 
 
