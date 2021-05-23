@@ -8,8 +8,10 @@
 ## 📖🛠 Language And Tools:
 
 - Python
+- Web Design & Development
 - Django Web Framework
 - JavaScript
+- Web Automation
 - Machine Learning
 
 
