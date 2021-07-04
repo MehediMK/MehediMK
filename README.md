@@ -14,7 +14,7 @@
 - Web Automation
 - Machine Learning
 
-[![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMK&layout=compact)]
+![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMK&layout=compact)
 
 ### Connect With Me:
 - [x] [Facebook](https://www.facebook.com/MDMMHK/)
