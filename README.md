@@ -2,14 +2,13 @@
 
 ## About ME:
 
-- 🔭 I’m currently working on Python Django Framework🌍<br>
-- 📚 I’m currently learning Machine Learning 🤖<br>
+- 🔭 I’m currently working as a Full Stack Web Developer🌍<br>
 
 ## 📖🛠 Language And Tools I use:
 
 **For** | **I Use**
 --- | ---
-**Programming Language** | <img align="left" alt="Python" width="40px" title="Python" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" /><img align="left" alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /><img align="left" alt="Dart" title="Dart" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
+**Programming Language** | <img align="left" alt="Python" width="40px" title="Python" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" /><img align="left" alt="Java" title="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 **Web Front End** | <img align="left" alt="HTML5" title="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img align="left" alt="CSS3" title="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="left" alt="JavaScript" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img align="left" alt="Sass" title="SASS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 **Web Backend** | <img align="left" alt="Django" title="Django Framework" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /> <img align="left" alt="PHP" title="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /> <img align="left" alt="Django-rest-framework" title="Django-rest-framework" width="40px" src="https://www.thetestspecimen.com/img/django-initial/django-rest-logo-1920w.jpg" />
 **Databases** | <img align="left" alt="MySQL" title="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> <img align="left" alt="postgresql" title="postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> <img align="left" alt="Mongodb" title="Mongodb" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
