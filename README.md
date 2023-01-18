@@ -18,7 +18,8 @@
 
 <br />
 
-![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMK&layout=compact)
+![Programming Language Used in Projects]([https://github-readme-stats.vercel.app/api/top-langs/?username=MehediMK&layout=compact](https://github-readme-stats.vercel.app/api?username=MehediMK&show_icons=true&theme=transparent))
+
 
 ### Connect With Me:
 - [x] [Facebook](https://www.facebook.com/MDMMHK/)
