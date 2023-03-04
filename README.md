@@ -2,7 +2,7 @@
 
 ## About ME:
 
-- 🔭 I’m currently working as a Full Stack Web Developer🌍<br>
+- 🔭 I’m currently working as a Software Engineer🌍<br>
 
 ## 📖🛠 Language And Tools I use:
 
