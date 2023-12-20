@@ -21,7 +21,7 @@
 
 ![Programming Language Used in Projects](https://github-readme-stats.vercel.app/api?username=MehediMK&show_icons=true&theme=radical)
 
-<a href="https://app.daily.dev/mehedimk"><img src="https://api.daily.dev/devcards/d255233aeaed465098dd415a3c2460ab.png?r=4qq" width="400" alt="Mehedi Khan's Dev Card"/></a>
+<a href="https://app.daily.dev/mehedimk"><img src="https://api.daily.dev/devcards/d255233aeaed465098dd415a3c2460ab.png?r=jk0" width="400" alt="Mehedi Khan's Dev Card"/></a>
 
 ### 📫 How to reach me:
 - [x] [Facebook](https://www.facebook.com/MDMMHK/)
