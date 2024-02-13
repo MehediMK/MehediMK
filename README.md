@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at W3Engineers Ltd. as a Software Engineer👨🏻‍💻<br>
-- 📚 I’m currently learning  ML and Perl
+- 📚 I’m currently learning  ML and different technology.
 
 ## 🛠 Language And Tools I use:
 
