@@ -21,6 +21,7 @@ I love you work with different technology/languages.
 <a href="https://app.daily.dev/mehedimk"><img src="https://api.daily.dev/devcards/v2/Sefazxl4Qsxikr8ZCAknf.png?type=default&r=iye" width="356" alt="Mehedi Khan's Dev Card"/></a>
 
 ### 📫 How to reach me:
+- [x] [Medium](https://mehedi-khan.medium.com/)
 - [x] [Facebook](https://www.facebook.com/MDMMHK/)
 - [x] [LinkedIn](https://www.linkedin.com/in/mehedikhan-mk/)
 
