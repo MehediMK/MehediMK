@@ -1,5 +1,6 @@
 <h1 align='center'>Hi, I'm MEHEDI KHAN 👋</h1>
 
+I love you work with different technology/languages.
 
 ## 🛠 Language And Tools I use:
 
