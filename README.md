@@ -1,6 +1,12 @@
 <h1 align='center'>Hi, I'm MEHEDI KHAN 👋</h1>
 
-I love you work with different technology/languages.
+🔭 I'm a full-stack developer specializing in Python Django Framework and Django REST framework.
+
+🌱 Currently exploring various technologies to enhance my skills.
+
+💻 Passionate about crafting robust and scalable web applications.
+
+📚 Constantly learning and adapting to new technologies and best practices.
 
 ## 🛠 Language And Tools I use:
 
